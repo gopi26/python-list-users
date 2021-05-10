@@ -1,15 +1,19 @@
 # python-list-users
 
-Prerequest 
+**Prerequest** 
 
 Python3.9
 
-Mock API in beeceptor
 
-GET call on https://myapp.free.beeceptor.com with / path gives list of user as below 
+**Mock API in beeceptor**
 
-python3 users.py
+GET call on https://myapp.free.beeceptor.com/ with / path gives list of user as below 
 
+curl -v -X GET 'https://myapp.free.beeceptor.com/' -H 'Content-Type: application/json'
+
+**python3 users.py**
+
+**Respone**
 
 [
   {
