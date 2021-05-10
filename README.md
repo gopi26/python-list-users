@@ -4,6 +4,10 @@
 
 Python3.9
 
+$ pip3 install virtualenv
+$ virtualenv -p python3 venv # Create virtual environment
+$ source venv/bin/activate # Activate virtual environment
+
 
 **Mock API in beeceptor**
 
