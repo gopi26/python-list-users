@@ -19,7 +19,7 @@ curl -v -X GET 'https://myapp.free.beeceptor.com/' -H 'Content-Type: application
 
 **python3 users.py**
 
-**Respone**
+**Response**
 
 [
   {
